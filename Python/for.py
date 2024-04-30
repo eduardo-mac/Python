@@ -10,9 +10,9 @@
 # range(valor_final, valor_inicial, incremento) pode trabalhar com esses 3 parêmetros
 
 
-pedras = ('Rubi','Esmeralda','Quartzo','Safira','Diamante','Turmalina')
+# pedras = ('Rubi','Esmeralda','Quartzo','Safira','Diamante','Turmalina')
 
-for pedra in pedras:
-    if pedra == 'Quartzo':
-        continue # pula o laço atual, ou seja, não vai exibir o 'Quartzo'
-    print(pedra)
+# for pedra in pedras:
+#     if pedra == 'Quartzo':
+#         continue # pula o laço atual, ou seja, não vai exibir o 'Quartzo'
+#     print(pedra)
